@@ -3,13 +3,15 @@ Learn new things with monika
 
 Compatable with submod updater plugin
 
-Added Learning German greetings
+Added Learn German greetings and goodbyes
 
 
 How to install 
 
 step 1 download this mod from github
+
 step 2 unzip 
-step 3 open the Game folder 
+step 3 open the Game folder
+
 step 4 drag and drop the Submods folder into the game folder
 done
