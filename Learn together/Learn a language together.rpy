@@ -4,7 +4,7 @@ init -990 python:
         author="Moonlightphoenixgames",
         name="Learn together",
         description="Learn new things with monika!",
-        version="1.0.2"
+        version="1.0.0"
     )
 
 # Register the updater
