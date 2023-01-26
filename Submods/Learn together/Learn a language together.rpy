@@ -14,7 +14,7 @@ init -989 python:
             submod="Learn together",
             user_name="seraphim2022",
             repository_name="MAS_learn_together",
-            update_dir="game",
+            update_dir="game/",
             attachment_id=None
         )
 
