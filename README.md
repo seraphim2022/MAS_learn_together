@@ -14,7 +14,7 @@ step 2 unzip Mas_learn_together-#.#.#.zip
 
 ! #.#.# standing for version number
 
-step 3 open the Game folder
+step 3 open the Game directory
 
 step 4 drag and drop the Submods folder into the game directory 
 
