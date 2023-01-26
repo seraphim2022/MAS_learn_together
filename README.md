@@ -15,8 +15,10 @@ step 2 unzip Mas_learn_together-#.#.#.zip
 
 step 3 open the Game directory
 
-step 4 drag and drop the Submods folder into the game directory
+step 4 open Submods directory
+
+step 4 drag and drop the Learn together folder into the Submods directory
 
 Done!
 
-! Do NOT drop the submods folder into the existing submods folder
+
