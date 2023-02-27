@@ -7,7 +7,7 @@ Added Learn German greetings and goodbyes
 
 Added counting from 1-100 in German
 
-Added the option to play tetris under the Learn catigory
+Added the option to play tetris under the Learn category!
 
 How to install
 
