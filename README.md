@@ -5,6 +5,10 @@ Compatable with submod updater plugin
 
 Added Learn German greetings and goodbyes
 
+Added counting from 1-100 in German
+
+Added the option to play tetris under the Learn catigory
+
 How to install
 
 step 1 download this mod from github
