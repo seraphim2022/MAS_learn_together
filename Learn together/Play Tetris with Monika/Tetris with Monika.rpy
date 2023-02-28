@@ -3,7 +3,7 @@ define TetrisWinner = 0
 define LineLimit = 0
 define TetrisScore = 0
 define PlayerForMonika = 0
-
+define persistent.best_co_op_tetris_score = 0
 
 # Register the submod
 init -990 python:
@@ -11,7 +11,7 @@ init -990 python:
         author="Moonlightphoenixgames",
         name="Learn together tetris",
         description="Adds Tetris to the Learn together submod",
-        version="1.0.0"
+        version="1.0.1"
     )
 
 init 5 python:
