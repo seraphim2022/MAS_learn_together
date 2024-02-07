@@ -18,6 +18,7 @@ step 2 unzip Mas_learn_together-#.#.#.zip
 ! #.#.# standing for version number
 
 step 3 move Learn together folder out of Mas_Learn_Together-#.#.zip
+
 ! Failing to do step 3 will cause errors and make tetris unplayable.
 
 step 4 open the Game directory
