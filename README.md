@@ -17,11 +17,14 @@ step 2 unzip Mas_learn_together-#.#.#.zip
 
 ! #.#.# standing for version number
 
-step 3 open the Game directory
+step 3 move Learn together folder out of Mas_Learn_Together-#.#.zip
+! Failing to do step 3 will cause errors and make tetris unplayable.
 
-step 4 open Submods directory
+step 4 open the Game directory
 
-step 4 drag and drop the Learn together folder into the Submods directory
+step 5 open Submods directory
+
+step 6 drag and drop the Learn together folder into the Submods directory
 
 Done!
 
