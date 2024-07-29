@@ -1,32 +1,31 @@
 # MAS_learn_together
-Learn new things with monika
+与莫妮卡一起学习新知识
 
-Compatable with submod updater plugin
+兼容子模式更新插件
 
-Added Learn German greetings and goodbyes
+添加了学习德语问候语和告别语
 
-Added counting from 1-100 in German
+添加德语 1-100 数数
 
-Added the option to play tetris under the Learn category!
+在 “学习 ”类别下添加了玩俄罗斯方块的选项！
 
-How to install
+如何安装
 
-step 1 download this mod from github
+步骤 1 从 github 下载此 MOD
 
-step 2 unzip Mas_learn_together-#.#.#.zip
+步骤 2 解压缩 Mas_learn_together-#.#.#.zip
 
-! #.#.# standing for version number
+! #.#.# 代表版本号
 
-step 3 move Learn together folder out of Mas_Learn_Together-#.#.zip
+步骤 3 将一起学习文件夹从 Mas_Learn_Together-#.#.#.zip 中移出。
 
-! Failing to do step 3 will cause errors and make tetris unplayable.
+! 不执行第 3 步会导致错误并使俄罗斯方块无法运行。
 
-step 4 open the Game directory
+步骤 4 打开游戏目录
 
-step 5 open Submods directory
+第 5 步 打开 Submods 目录
 
-step 6 drag and drop the Learn together folder into the Submods directory
+步骤 6 将 Learn together 文件夹拖放到 Submods 目录中
 
-Done!
-
+完成！
 
